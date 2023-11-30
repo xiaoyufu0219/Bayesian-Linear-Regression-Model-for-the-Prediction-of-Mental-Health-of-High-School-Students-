@@ -1,0 +1,1 @@
+# Bayesian-Linear-Regression-Model-for-the-Prediction-of-Mental-Health-of-High-School-Students-
